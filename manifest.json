@@ -1,0 +1,16 @@
+{
+  "short_name": "BOSSWAP",
+  "name": "BOSSWAP",
+  "description": "Farm BOSS",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "128x125"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

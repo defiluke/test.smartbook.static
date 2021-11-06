@@ -1,0 +1,33 @@
+{
+  "files": {
+    "static/js/0.f5ac788e.chunk.js": "https://defiluke.github.io/test.smartbook.static/static/js/0.f5ac788e.chunk.js",
+    "static/js/0.f5ac788e.chunk.js.map": "https://defiluke.github.io/test.smartbook.static/static/js/0.f5ac788e.chunk.js.map",
+    "static/js/1.62360e5d.chunk.js": "https://defiluke.github.io/test.smartbook.static/static/js/1.62360e5d.chunk.js",
+    "static/js/1.62360e5d.chunk.js.map": "https://defiluke.github.io/test.smartbook.static/static/js/1.62360e5d.chunk.js.map",
+    "main.js": "https://defiluke.github.io/test.smartbook.static/static/js/main.8cb38350.chunk.js",
+    "main.js.map": "https://defiluke.github.io/test.smartbook.static/static/js/main.8cb38350.chunk.js.map",
+    "runtime-main.js": "https://defiluke.github.io/test.smartbook.static/static/js/runtime-main.9210bad8.js",
+    "runtime-main.js.map": "https://defiluke.github.io/test.smartbook.static/static/js/runtime-main.9210bad8.js.map",
+    "static/js/4.a71c02aa.chunk.js": "https://defiluke.github.io/test.smartbook.static/static/js/4.a71c02aa.chunk.js",
+    "static/js/4.a71c02aa.chunk.js.map": "https://defiluke.github.io/test.smartbook.static/static/js/4.a71c02aa.chunk.js.map",
+    "static/js/5.85fd7f6c.chunk.js": "https://defiluke.github.io/test.smartbook.static/static/js/5.85fd7f6c.chunk.js",
+    "static/js/5.85fd7f6c.chunk.js.map": "https://defiluke.github.io/test.smartbook.static/static/js/5.85fd7f6c.chunk.js.map",
+    "static/js/6.f78f0c05.chunk.js": "https://defiluke.github.io/test.smartbook.static/static/js/6.f78f0c05.chunk.js",
+    "static/js/6.f78f0c05.chunk.js.map": "https://defiluke.github.io/test.smartbook.static/static/js/6.f78f0c05.chunk.js.map",
+    "static/js/7.7a85926a.chunk.js": "https://defiluke.github.io/test.smartbook.static/static/js/7.7a85926a.chunk.js",
+    "static/js/7.7a85926a.chunk.js.map": "https://defiluke.github.io/test.smartbook.static/static/js/7.7a85926a.chunk.js.map",
+    "static/js/8.f4772309.chunk.js": "https://defiluke.github.io/test.smartbook.static/static/js/8.f4772309.chunk.js",
+    "static/js/8.f4772309.chunk.js.map": "https://defiluke.github.io/test.smartbook.static/static/js/8.f4772309.chunk.js.map",
+    "static/js/9.187a707b.chunk.js": "https://defiluke.github.io/test.smartbook.static/static/js/9.187a707b.chunk.js",
+    "static/js/9.187a707b.chunk.js.map": "https://defiluke.github.io/test.smartbook.static/static/js/9.187a707b.chunk.js.map",
+    "index.html": "https://defiluke.github.io/test.smartbook.static/index.html",
+    "static/js/4.a71c02aa.chunk.js.LICENSE.txt": "https://defiluke.github.io/test.smartbook.static/static/js/4.a71c02aa.chunk.js.LICENSE.txt",
+    "static/js/5.85fd7f6c.chunk.js.LICENSE.txt": "https://defiluke.github.io/test.smartbook.static/static/js/5.85fd7f6c.chunk.js.LICENSE.txt",
+    "static/js/main.8cb38350.chunk.js.LICENSE.txt": "https://defiluke.github.io/test.smartbook.static/static/js/main.8cb38350.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9210bad8.js",
+    "static/js/4.a71c02aa.chunk.js",
+    "static/js/main.8cb38350.chunk.js"
+  ]
+}
